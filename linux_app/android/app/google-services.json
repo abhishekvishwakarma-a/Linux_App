@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "164874080181",
+    "project_id": "linux-35490",
+    "storage_bucket": "linux-35490.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:164874080181:android:64469a39f1fd8f783a53fc",
+        "android_client_info": {
+          "package_name": "com.example.linux_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "164874080181-rqavknlbohm568kptmbhm4ghu8h5t99e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGCZK8ojTVSMFPfS4ngpBgUpEmWd6orVw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "164874080181-rqavknlbohm568kptmbhm4ghu8h5t99e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
